@@ -1,0 +1,24 @@
+learned time complexity and space complexity 
+Those who write optimized code only will be top developers in world
+Time complexity allows you run your code fast - process
+space complexity allows you to save ram/memory
+
+  Files saved in HD
+  when code runs loads into RAM
+  CPU runs that code CPU
+
+  Those who save resources will have alot of demand in outside world is called cost saving optimization
+
+  import sys
+  sys.getsizeof(x) - to check size of 
+
+  list - mutable,slow, more size ,
+  tuple- immutable,fast less size ,
+
+print(f"hello welcome to {city} for the {time}") - fstring
+
+x,yz = 1,3,4
+i,j = 1, (2,3,4,6,8)
+
+shift+tab - explain
+shift+enter - excute in jupyter
