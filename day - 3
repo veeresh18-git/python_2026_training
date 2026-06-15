@@ -22,3 +22,11 @@ i,j = 1, (2,3,4,6,8)
 
 shift+tab - explain
 shift+enter - excute in jupyter
+
+code written today
+
+list1 = ["veeresh" , 403 , "venu" , 503 , "ksh" , 101]
+
+for num in list1:
+    if type(num) == int:
+        print(num)
